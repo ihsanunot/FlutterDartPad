@@ -14,5 +14,7 @@ Sedang belajar menggunakan Flutter dan VSCODE.
 - https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html
 - https://www.flutterbeads.com/add-image-in-flutter/#:~:text=Step%201%3A%20At%20the%20root,inside%20the%20assets%2Fimages%20folder.
 - https://www.barajacoding.or.id/cara-memakai-single-child-scroll-view/
--  
+
+---
+Ihsanunot
 
